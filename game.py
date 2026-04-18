@@ -6,7 +6,7 @@ import random
 import sys
 import math
 
-# --- Constants ---
+# --- Constants ----
 WINDOW_WIDTH = 800
 WINDOW_HEIGHT = 600
 LANE_POSITIONS = [200, 400, 600]
